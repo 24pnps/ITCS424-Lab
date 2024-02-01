@@ -1,1 +1,2 @@
-# ITCS424-Lab
+# ITCS424 Wireless and Mobile Computing
+## Lab Submission
